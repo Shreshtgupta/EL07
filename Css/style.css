@@ -1,0 +1,22 @@
+h1{
+    font-size: 50px;
+    color:gold;
+    border: 2px dashed black;
+    background-color:blueviolet;
+}
+.odd{
+    color:red;
+    font-size: 50px;
+}
+#middle{
+    color:green;
+    font-size: 50px;
+
+}
+.odd.even{
+    background-color: aqua;
+}
+*{
+    background-color:cadetblue ;
+}
+
